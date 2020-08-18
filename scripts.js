@@ -226,9 +226,10 @@
       `talk - item to discuss with team member`,
       `task - assignable task for an individual`,
       `idea - note on where in a process an item was left to aid in jumping back in`,
+      `*todo - asterisk notes a line item is finished.`
       ``,
       ``,
-      `info: prefix the line with one of the above keywords, organize by indenting with tabs.`
+      `info: prefix the line with one of the above keywords, organize by indenting with tabs, shift-tab also works!`
     ];
     appendSavedLines(element, savedLines);
   }
