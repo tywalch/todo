@@ -219,7 +219,7 @@
   function prepareContentSpace(element) {
     element.innerText = '';
     const savedLines = store.read() || [
-      `|KEY`,
+      `|KEY - Use a vertical pipe to make "header"`,
       `todo - item that needs doing`,
       `redo - fix this item`,
       `info - information for later reference`,
