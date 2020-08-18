@@ -227,7 +227,7 @@
       `task - assignable task for an individual`,
       `idea - note on where in a process an item was left to aid in jumping back in`,
       ``,
-      ``
+      ``,
       `info: prefix the line with one of the above keywords, organize by indenting with tabs.`
     ];
     appendSavedLines(element, savedLines);
