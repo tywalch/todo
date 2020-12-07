@@ -42,6 +42,13 @@
         "color": '#BDBDC0',
       }
     },
+    'hold': {
+      "type": "primary",
+      "styles": {
+        "color": "#FFF"
+        "backgroundColor: "#000"
+      }
+    },
     '\\*': {
       'type': 'override',
       "styles": {
