@@ -39,7 +39,7 @@
     'hold': {
       "type": "primary",
       "styles": {
-        "color": "#FFF"
+        "color": "#FFF",
         "backgroundColor": "#000"
       }
     },
