@@ -3,8 +3,8 @@
 }
 
 body {
-background-color: #2b2b2b;
-font-family: 'Inconsolata', 'monospace';
+  background-color: #2b2b2b;
+  font-family: 'Inconsolata', 'monospace';
 }
 
 [contenteditable] {
