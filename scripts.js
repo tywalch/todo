@@ -37,16 +37,10 @@
       }
     },
     'hold': {
-      'type': 'primary',
-      "styles": {
-        "color": '#BDBDC0',
-      }
-    },
-    'hold': {
       "type": "primary",
       "styles": {
         "color": "#FFF"
-        "backgroundColor: "#000"
+        "backgroundColor": "#000"
       }
     },
     '\\*': {
