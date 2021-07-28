@@ -228,7 +228,7 @@
       `task - assignable task for an individual`,
       `idea - note on where in a process an item was left to aid in jumping back in`,
       `hold - item is on hold or i am blocked from preceding`,
-      `*todo - asterisk notes a line item is finished.`
+      `*todo - asterisk notes a line item is finished.`,
       ``,
       ``,
       `info: prefix the line with one of the above keywords, organize by indenting with tabs, shift-tab also works!`
